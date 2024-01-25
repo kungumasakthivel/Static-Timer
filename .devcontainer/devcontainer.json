@@ -22,5 +22,10 @@
       "onAutoForward": "openPreview"
     }
   },
+  "features":{
+    "ghrc.io/devcontainers/features/sshd:1" : {
+      "version": "latest"
+    }
+  },
   "forwardPorts": [3000]
 }
